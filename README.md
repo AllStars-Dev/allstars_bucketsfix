@@ -1,6 +1,6 @@
-# AllStars - Fix Buckets - ESX
+# AllStars - Fix Buckets - ESX - Quasar scripts
 
-- Cette version corrige les instances fantomes sans casser les interieurs.
+- Cette version corrige les instances fantomes sans casser les interieurs QS.
 
 #Fonctions :
 
