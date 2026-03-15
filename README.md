@@ -1,7 +1,28 @@
 # AllStars - Fix Buckets
 
--- Projet Fix buckets autonome, avec command admin /fixbuckets /fixbucket{id} . 
--- Sortez d'un appartement, maison et ne restez plus bloquer dans une autre instance.
+- Cette version corrige les instances fantomes sans casser les interieurs.
+
+#Fonctions :
+
+- detection joueur bloque dans bucket
+
+- verification interieur / exterieur
+
+- reset intelligent
+
+- fix au spawn
+
+- fix reconnect
+
+- commande admin
+
+- commande admin sur joueur
+
+- logs debug
+
+- protection interieurs
+
+
 
 #Installation
 
