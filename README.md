@@ -29,7 +29,7 @@
 
 -- Créer dossier :
 
-resources/[utils]/allstars_bucketfix
+resources/[utils]/allstars_bucketsfix
 
 -- Ajouter dans server.cfg
 
